@@ -103,6 +103,10 @@ app/
 ./gradlew assembleDebug
 ```
 
+**Finding the APK:** After building, the APK will be located at `app/build/outputs/apk/debug/app-debug.apk` (for debug builds) or `app/build/outputs/apk/release/app-release.apk` (for release builds).
+
+For detailed information about APK locations, build variants, and installation, see [APK_LOCATION_GUIDE.md](APK_LOCATION_GUIDE.md).
+
 ## Testing
 
 Run unit tests:
