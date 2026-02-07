@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Primary colors -->
+    <color name="smart_notes_primary">#FF6650A4</color>
+    <color name="smart_notes_primary_variant">#FF4A3C7F</color>
+    <color name="smart_notes_secondary">#FF03DAC5</color>
+    <color name="smart_notes_secondary_variant">#FF018786</color>
+    
+    <!-- Background colors -->
+    <color name="smart_notes_background">#FFFAFAFA</color>
+    <color name="smart_notes_surface">#FFFFFFFF</color>
+    <color name="smart_notes_surface_variant">#FFF5F5F5</color>
+    
+    <!-- Text colors -->
+    <color name="smart_notes_on_primary">#FFFFFFFF</color>
+    <color name="smart_notes_on_secondary">#FF000000</color>
+    <color name="smart_notes_on_background">#FF000000</color>
+    <color name="smart_notes_on_surface">#FF000000</color>
+    
+    <!-- Error colors -->
+    <color name="smart_notes_error">#FFB00020</color>
+    <color name="smart_notes_error_variant">#FFBA1A1A</color>
+    
+    <!-- Legacy colors (for compatibility) -->
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
@@ -7,4 +29,23 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    
+    <!-- App-specific colors -->
+    <color name="math_result_bg">#FFE8F5FD</color>
+    <color name="drawing_stroke">#FF2196F3</color>
+    <color name="voice_listening">#FF4CAF50</color>
+    <color name="folder_color">#FFFF9800</color>
+    <color name="tag_color">#FF9C27B0</color>
+    
+    <!-- Neutral colors -->
+    <color name="neutral_50">#FFF8F9FA</color>
+    <color name="neutral_100">#FFF1F3F4</color>
+    <color name="neutral_200">#FFE8EAED</color>
+    <color name="neutral_300">#FFDADCE0</color>
+    <color name="neutral_400">#FFBDC1C6</color>
+    <color name="neutral_500">#FF9AA0A6</color>
+    <color name="neutral_600">#FF80868B</color>
+    <color name="neutral_700">#FF5F6368</color>
+    <color name="neutral_800">#FF3C4043</color>
+    <color name="neutral_900">#FF202124</color>
 </resources>
